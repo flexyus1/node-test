@@ -11,3 +11,4 @@ app.use('/projects', projectsRoutes)
 app.listen(port, () => {
   console.log(`Servidor rodando na porta: ${port}`)
 })
+//código basico para rodar o servidor em uma porta local utilizando express
